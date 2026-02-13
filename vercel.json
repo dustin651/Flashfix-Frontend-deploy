@@ -1,9 +1,1 @@
-{
-  "build": {
-    "env": {
-      "NODE_VERSION": "16.x"
-    },
-    "cmd": "npm run build",
-    "outputDirectory": "out"
-  }
-}
+{\n  \"build\": {\n    \"env\": {\n      \"NODE_ENV\": \"production\"\n    }\n  },\n  \"outputDirectory\": \"dist\"\n}
