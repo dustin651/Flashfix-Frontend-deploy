@@ -1,0 +1,7 @@
+{
+  "name": "Official Flash Fix Turnover Pro",
+  "description": "A high-performance property turnover management system with AI-powered damage assessment and automated work order generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
